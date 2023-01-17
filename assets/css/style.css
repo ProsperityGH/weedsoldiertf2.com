@@ -1,0 +1,1 @@
+*{margin:0;padding:0}body{display:flex;align-items:center;justify-content:center;overflow:hidden;flex-direction:column;background-color:#000}p{color:#fff}video{position:fixed;text-align:center;top:50%;left:50%;-webkit-transform:translate(-50%, -50%);transform:translate(-50%, -50%)}button{width:100px;height:20px}@media screen and (max-width: 480px){video{width:100vw;height:100vh}}
